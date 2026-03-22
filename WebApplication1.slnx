@@ -1,3 +1,6 @@
 <Solution>
+  <Project Path="../c#-2026-data/c#-2026-data.csproj" />
+  <Project Path="../c#-2026-repository/c#-2026-repository.csproj" />
+  <Project Path="../c#-2026-service/c#-2026-service.csproj" />
   <Project Path="WebApplication1/WebApplication1.csproj" />
 </Solution>
